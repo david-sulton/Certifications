@@ -1,1 +1,3 @@
 # Certifications
+- CCNA
+- Comptia Pentest+
