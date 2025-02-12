@@ -1,4 +1,4 @@
-Study guide from kamekeisen
+Study guide from u/kamekeisen
 [CySA+ guide.docx](https://github.com/user-attachments/files/18767620/CySA%2B.guide.docx)
 
 
