@@ -43,3 +43,15 @@ What Makes Certified in Cybersecurity Your Best Move?
     Pathway to Cybersecurity Careers and Advanced Certifications – Build a strong foundation for an infosec career and become familiar with exam formats for advanced ISC2 certifications like the CISSP.
     Community of Professionals – Access a network of peers and CPE/learning opportunities.
     Higher Salaries – ISC2 members report 35% higher salaries than non-members.
+
+# Notes
+## CIA
+- Confidentiality
+- Integrity
+- Availability
+
+## DAD
+- Disclosure
+- Alteration
+- Destruction
+
