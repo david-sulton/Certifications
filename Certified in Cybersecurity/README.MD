@@ -4,6 +4,7 @@ ISC2
 ## Currently free for training and exam voucher as of 09JUN2025.
 - https://www.isc2.org/certifications/cc
 
+
 ## CC Quick Glance
 ENTRY-LEVEL CYBERSECURITY
 
