@@ -72,7 +72,7 @@ Email:
 - Port 3389: RDP (Remote Desktop Protocol) - used for remote desktop connections. 
 - Port 123: NTP (Network Time Protocol) - used for synchronizing clocks. 
 - Port 161: SNMP (Simple Network Management Protocol)
-[common-network-ports-cheat-sheet.pdf](https://github.com/user-attachments/files/20958273/common-network-ports-cheat-sheet.pdf)
+- [common-network-ports-cheat-sheet.pdf](https://github.com/user-attachments/files/20958273/common-network-ports-cheat-sheet.pdf)
 
 
 ## OSI model
