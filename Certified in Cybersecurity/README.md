@@ -72,6 +72,8 @@ Email:
 - Port 3389: RDP (Remote Desktop Protocol) - used for remote desktop connections. 
 - Port 123: NTP (Network Time Protocol) - used for synchronizing clocks. 
 - Port 161: SNMP (Simple Network Management Protocol)
+[common-network-ports-cheat-sheet.pdf](https://github.com/user-attachments/files/20958273/common-network-ports-cheat-sheet.pdf)
+
 
 ## OSI model
 Please Do Not Throw Sausage Pizza Away!!!
@@ -83,3 +85,4 @@ Please Do Not Throw Sausage Pizza Away!!!
 - 5. Session Layer (Layer 5): This layer manages communication sessions between applications. It establishes, coordinates, and terminates connections (sessions) between applications, ensuring smooth communication flow. 
 - 6. Presentation Layer (Layer 6): This layer handles data representation and formatting. It translates, encrypts, and compresses data to ensure the receiving application can understand it. 
 - 7. Application Layer (Layer 7): This is the layer closest to the user, providing the interface for applications to access network services. Examples include web browsers, email clients, and file transfer applications
+![image](https://github.com/user-attachments/assets/9fee1ed9-39ec-4f6b-a73a-31a5ac504cc1)
