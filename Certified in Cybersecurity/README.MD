@@ -57,7 +57,24 @@ What Makes Certified in Cybersecurity Your Best Move?
 - Destruction
 
 ## Common Ports
-
+Web Services:
+Port 80: HTTP (Hypertext Transfer Protocol) - used for unencrypted web traffic. 
+Port 443: HTTPS (HTTP Secure) - used for encrypted web traffic. 
+Port 8080: Often used as an alternative HTTP port, especially for web servers or proxies. 
+File Transfer:
+Port 21: FTP (File Transfer Protocol) - used for control connections. 
+Port 20: FTP (File Transfer Protocol) - used for data connections. 
+Port 22: SSH (Secure Shell) - used for secure remote access and file transfer. 
+Email:
+Port 25: SMTP (Simple Mail Transfer Protocol) - used for sending emails. 
+Port 110: POP3 (Post Office Protocol version 3) - used for retrieving emails. 
+Port 143: IMAP (Internet Message Access Protocol) - used for retrieving emails. 
+Other Common Ports:
+Port 53: DNS (Domain Name System) - used for resolving domain names to IP addresses. 
+Port 23: Telnet - used for remote access (less secure than SSH). 
+Port 3389: RDP (Remote Desktop Protocol) - used for remote desktop connections. 
+Port 123: NTP (Network Time Protocol) - used for synchronizing clocks. 
+Port 161: SNMP (Simple Network Management Protocol)
 
 ## OSI model
 Please Do Not Throw Sausage Pizza Away!!!
